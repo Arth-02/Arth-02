@@ -9,15 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://iamarth.me"><img src="https://img.shields.io/badge/Portfolio-iamarth.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: iamarth.me" /></a>
-  <a href="https://www.linkedin.com/in/arth-patel1702"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arthmp2003@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/arth_patel_06"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://iamarth.me"><img src="./assets/btn-portfolio.svg" alt="Portfolio: iamarth.me" height="44" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arth-patel1702"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
+  &nbsp;
+  <a href="mailto:arthmp2003@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="44" /></a>
+  &nbsp;
+  <a href="https://instagram.com/arth_patel_06"><img src="./assets/btn-instagram.svg" alt="Instagram" height="44" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arth-02&label=Profile%20views&color=EC4899&style=flat" alt="Profile views" />
-</p>
+<br />
 
 ## 💻 `whoami`
 
@@ -43,42 +44,64 @@ arthmp2003@gmail.com
 
 > ⚡ That terminal is real. Open **[iamarth.me](https://iamarth.me)**, press <kbd>Ctrl</kbd> + <kbd>K</kbd> and switch to **Developer Mode**.
 
+<br />
+
 ## 🚀 Things I've built
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://iamarth.me/projects/bootleg"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Fbootleg.png&w=828&q=75" alt="Bootleg" /></a>
-      <h3>Bootleg</h3>
-      <p>Concert streaming and fan-engagement platform with multi-channel user journeys and multi-platform payments. Built at Rayo Innovations.</p>
-      <p><code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>BullMQ</code> <code>Stripe</code> <code>AWS S3</code></p>
-      <p><a href="https://music.bootleg.live">Live</a> · <a href="https://iamarth.me/projects/bootleg">Case study</a></p>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://iamarth.me/projects/bootleg"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Fbootleg.png&w=640&q=75" alt="Bootleg" width="300" /></a>
+      <br /><br />
+      <b>Bootleg</b>
+      <br />
+      <sub>Concert streaming and fan-engagement platform</sub>
+      <br /><br />
+      <a href="https://music.bootleg.live">Live</a> &nbsp;·&nbsp; <a href="https://iamarth.me/projects/bootleg">Case study</a>
+      <br />
     </td>
-    <td width="50%" valign="top">
-      <a href="https://iamarth.me/projects/orgx"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Forgx.png&w=828&q=75" alt="OrgX" /></a>
-      <h3>OrgX</h3>
-      <p>Multi-tenant SaaS for managing departments, projects, tasks and employee grievances, with role-based access and Stripe billing.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.io</code> <code>Stripe</code></p>
-      <p><a href="https://org-x.vercel.app/">Live</a> · <a href="https://github.com/Arth-02/Org-X">Code</a> · <a href="https://iamarth.me/projects/orgx">Case study</a></p>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://iamarth.me/projects/orgx"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Forgx.png&w=640&q=75" alt="OrgX" width="300" /></a>
+      <br /><br />
+      <b>OrgX</b>
+      <br />
+      <sub>Multi-tenant SaaS for projects, tasks and employee grievances</sub>
+      <br /><br />
+      <a href="https://org-x.vercel.app/">Live</a> &nbsp;·&nbsp; <a href="https://github.com/Arth-02/Org-X">Code</a> &nbsp;·&nbsp; <a href="https://iamarth.me/projects/orgx">Case study</a>
+      <br />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://iamarth.me/projects/moviesaga"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Fmoviesaga.png&w=828&q=75" alt="MovieSaga" /></a>
-      <h3>MovieSaga</h3>
-      <p>Movie rating and review platform with personal wishlists.</p>
-      <p><code>React</code> <code>Material UI</code> <code>Django REST Framework</code> <code>PostgreSQL</code></p>
-      <p><a href="https://moviesaga-react.vercel.app/">Live</a> · <a href="https://github.com/Arth-02/Moviesaga_react">Code</a> · <a href="https://iamarth.me/projects/moviesaga">Case study</a></p>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://iamarth.me/projects/moviesaga"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Fmoviesaga.png&w=640&q=75" alt="MovieSaga" width="300" /></a>
+      <br /><br />
+      <b>MovieSaga</b>
+      <br />
+      <sub>Movie rating and review platform with personal wishlists</sub>
+      <br /><br />
+      <a href="https://moviesaga-react.vercel.app/">Live</a> &nbsp;·&nbsp; <a href="https://github.com/Arth-02/Moviesaga_react">Code</a> &nbsp;·&nbsp; <a href="https://iamarth.me/projects/moviesaga">Case study</a>
+      <br />
     </td>
-    <td width="50%" valign="top">
-      <a href="https://iamarth.me/projects/chitchat"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Fchitchat.png&w=828&q=75" alt="ChitChat" /></a>
-      <h3>ChitChat</h3>
-      <p>Real-time chat app with one-to-one and group messaging, live notifications and online presence.</p>
-      <p><code>React</code> <code>Chakra UI</code> <code>Node.js</code> <code>Express</code> <code>Socket.io</code> <code>MongoDB</code></p>
-      <p><a href="https://iamarth.me/projects/chitchat">Case study</a></p>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://iamarth.me/projects/chitchat"><img src="https://iamarth.me/_next/image?url=%2Fproject%2Fchitchat.png&w=640&q=75" alt="ChitChat" width="300" /></a>
+      <br /><br />
+      <b>ChitChat</b>
+      <br />
+      <sub>Real-time chat with one-to-one and group messaging</sub>
+      <br /><br />
+      <a href="https://iamarth.me/projects/chitchat">Case study</a>
+      <br />
     </td>
   </tr>
 </table>
+</div>
+
+<br />
 
 ## 🧰 Tech I work with
 
@@ -87,6 +110,8 @@ arthmp2003@gmail.com
 </p>
 
 <p align="center">Also: Socket.io · BullMQ · Stripe · Sentry · shadcn/ui · Material UI</p>
+
+<br />
 
 ## 📊 GitHub stats
 
@@ -101,6 +126,12 @@ arthmp2003@gmail.com
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=arth-02&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Arth's GitHub trophies" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arth-02&label=Profile%20views&color=EC4899&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
